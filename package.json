@@ -22,7 +22,8 @@
     "express": "4.17.1",
     "helmet": "4.6.0",
     "jsonwebtoken": "^8.5.1",
-    "knex": "0.95.14",
+    "knex": "^0.95.14",
+    "seed": "^0.4.4",
     "sqlite3": "5.0.2"
   },
   "devDependencies": {
@@ -31,6 +32,6 @@
     "eslint": "8.4.1",
     "jest": "27.4.4",
     "nodemon": "2.0.15",
-    "supertest": "6.1.6"
+    "supertest": "^6.1.6"
   }
 }
